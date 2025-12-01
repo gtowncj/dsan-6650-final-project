@@ -1,6 +1,9 @@
 # DSAN 6650 Final Project
 ## Tunix Fine Tuning Kaggle Competition
 
+## View the published site here: 
+[Final Project Website]()
+
 ### Setup Instructions
 ```bash
 # Sync dependencies
@@ -14,9 +17,6 @@ source .venv/bin/activate
 # Install Jupyter kernel for the virtual environment
 uv run python -m ipykernel install --user --name=tunix-fine-tuning-project
 ```
-
-
-
 
 
 ### Abstract

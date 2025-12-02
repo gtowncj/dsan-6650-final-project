@@ -1,0 +1,50 @@
+100%
+ 100/100 [02:44<00:00,  1.27it/s]
+===> corr=3, total=10, corr / total * 100=30.0, partially_corr / total * 100=30.0, corr_format / total * 100=90.0
+===> corr=9, total=20, corr / total * 100=45.0, partially_corr / total * 100=45.0, corr_format / total * 100=95.0
+===> corr=15, total=30, corr / total * 100=50.0, partially_corr / total * 100=50.0, corr_format / total * 100=93.33333333333333
+===> corr=18, total=40, corr / total * 100=45.0, partially_corr / total * 100=47.5, corr_format / total * 100=95.0
+===> corr=21, total=50, corr / total * 100=42.0, partially_corr / total * 100=46.0, corr_format / total * 100=96.0
+===> corr=26, total=60, corr / total * 100=43.333333333333336, partially_corr / total * 100=46.666666666666664, corr_format / total * 100=95.0
+===> corr=31, total=70, corr / total * 100=44.285714285714285, partially_corr / total * 100=47.14285714285714, corr_format / total * 100=95.71428571428572
+===> corr=37, total=80, corr / total * 100=46.25, partially_corr / total * 100=48.75, corr_format / total * 100=95.0
+SKIPPED
+===> corr=42, total=90, corr / total * 100=46.666666666666664, partially_corr / total * 100=48.888888888888886, corr_format / total * 100=95.55555555555556
+===> corr=48, total=100, corr / total * 100=48.0, partially_corr / total * 100=52.0, corr_format / total * 100=96.0
+SKIPPED
+===> corr=53, total=110, corr / total * 100=48.18181818181818, partially_corr / total * 100=51.81818181818182, corr_format / total * 100=96.36363636363636
+===> corr=58, total=120, corr / total * 100=48.333333333333336, partially_corr / total * 100=51.66666666666667, corr_format / total * 100=95.83333333333334
+===> corr=64, total=130, corr / total * 100=49.23076923076923, partially_corr / total * 100=52.307692307692314, corr_format / total * 100=96.15384615384616
+SKIPPED
+SKIPPED
+===> corr=66, total=140, corr / total * 100=47.14285714285714, partially_corr / total * 100=50.0, corr_format / total * 100=95.71428571428572
+SKIPPED
+===> corr=71, total=150, corr / total * 100=47.333333333333336, partially_corr / total * 100=50.0, corr_format / total * 100=96.0
+===> corr=75, total=160, corr / total * 100=46.875, partially_corr / total * 100=49.375, corr_format / total * 100=95.625
+===> corr=81, total=170, corr / total * 100=47.647058823529406, partially_corr / total * 100=50.0, corr_format / total * 100=95.88235294117648
+===> corr=83, total=180, corr / total * 100=46.111111111111114, partially_corr / total * 100=48.333333333333336, corr_format / total * 100=96.11111111111111
+===> corr=87, total=190, corr / total * 100=45.78947368421053, partially_corr / total * 100=47.89473684210526, corr_format / total * 100=96.3157894736842
+===> corr=91, total=200, corr / total * 100=45.5, partially_corr / total * 100=48.0, corr_format / total * 100=96.5
+===> corr=98, total=210, corr / total * 100=46.666666666666664, partially_corr / total * 100=49.523809523809526, corr_format / total * 100=96.66666666666667
+===> corr=102, total=220, corr / total * 100=46.36363636363636, partially_corr / total * 100=49.54545454545455, corr_format / total * 100=96.81818181818181
+===> corr=105, total=230, corr / total * 100=45.65217391304348, partially_corr / total * 100=48.69565217391305, corr_format / total * 100=96.52173913043478
+===> corr=112, total=240, corr / total * 100=46.666666666666664, partially_corr / total * 100=49.583333333333336, corr_format / total * 100=96.25
+===> corr=116, total=250, corr / total * 100=46.400000000000006, partially_corr / total * 100=49.2, corr_format / total * 100=96.39999999999999
+===> corr=120, total=260, corr / total * 100=46.15384615384615, partially_corr / total * 100=48.84615384615385, corr_format / total * 100=95.38461538461539
+===> corr=123, total=270, corr / total * 100=45.55555555555556, partially_corr / total * 100=48.148148148148145, corr_format / total * 100=94.81481481481482
+===> corr=128, total=280, corr / total * 100=45.714285714285715, partially_corr / total * 100=48.57142857142857, corr_format / total * 100=95.0
+===> corr=132, total=290, corr / total * 100=45.51724137931035, partially_corr / total * 100=48.275862068965516, corr_format / total * 100=95.17241379310344
+===> corr=137, total=300, corr / total * 100=45.666666666666664, partially_corr / total * 100=48.333333333333336, corr_format / total * 100=95.33333333333334
+===> corr=143, total=310, corr / total * 100=46.12903225806452, partially_corr / total * 100=48.70967741935484, corr_format / total * 100=95.48387096774194
+SKIPPED
+===> corr=148, total=320, corr / total * 100=46.25, partially_corr / total * 100=48.75, corr_format / total * 100=95.625
+SKIPPED
+===> corr=151, total=330, corr / total * 100=45.75757575757576, partially_corr / total * 100=48.78787878787879, corr_format / total * 100=95.75757575757575
+===> corr=153, total=340, corr / total * 100=45.0, partially_corr / total * 100=48.23529411764706, corr_format / total * 100=95.88235294117648
+===> corr=155, total=350, corr / total * 100=44.285714285714285, partially_corr / total * 100=47.42857142857143, corr_format / total * 100=96.0
+===> corr=164, total=360, corr / total * 100=45.55555555555556, partially_corr / total * 100=48.61111111111111, corr_format / total * 100=96.11111111111111
+===> corr=169, total=370, corr / total * 100=45.67567567567568, partially_corr / total * 100=48.64864864864865, corr_format / total * 100=95.94594594594594
+===> corr=174, total=380, corr / total * 100=45.78947368421053, partially_corr / total * 100=48.68421052631579, corr_format / total * 100=96.05263157894737
+===> corr=179, total=390, corr / total * 100=45.8974358974359, partially_corr / total * 100=48.717948717948715, corr_format / total * 100=96.15384615384616
+===> corr=185, total=400, corr / total * 100=46.25, partially_corr / total * 100=49.0, corr_format / total * 100=96.25
+corr=185, total=400, accuracy=46.25%, partial_accuracy=49.0%, format_accuracy=96.25%

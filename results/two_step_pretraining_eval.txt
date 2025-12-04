@@ -1,0 +1,31 @@
+  5%|▌         | 5/100 [01:04<13:55,  8.79s/it]===> corr=1, total=10, corr / total * 100=10.0, partially_corr / total * 100=10.0, corr_format / total * 100=20.0
+ 10%|█         | 10/100 [01:37<08:37,  5.75s/it]===> corr=3, total=20, corr / total * 100=15.0, partially_corr / total * 100=25.0, corr_format / total * 100=25.0
+ 15%|█▌        | 15/100 [01:52<05:01,  3.54s/it]===> corr=8, total=30, corr / total * 100=26.666666666666668, partially_corr / total * 100=33.33333333333333, corr_format / total * 100=20.0
+ 20%|██        | 20/100 [02:08<04:15,  3.19s/it]===> corr=12, total=40, corr / total * 100=30.0, partially_corr / total * 100=40.0, corr_format / total * 100=17.5
+ 25%|██▌       | 25/100 [02:24<03:52,  3.10s/it]===> corr=14, total=50, corr / total * 100=28.000000000000004, partially_corr / total * 100=36.0, corr_format / total * 100=18.0
+ 30%|███       | 30/100 [02:39<03:39,  3.14s/it]===> corr=18, total=60, corr / total * 100=30.0, partially_corr / total * 100=36.666666666666664, corr_format / total * 100=23.333333333333332
+ 35%|███▌      | 35/100 [02:54<03:18,  3.06s/it]===> corr=23, total=70, corr / total * 100=32.857142857142854, partially_corr / total * 100=38.57142857142858, corr_format / total * 100=24.285714285714285
+ 40%|████      | 40/100 [03:10<03:04,  3.07s/it]===> corr=27, total=80, corr / total * 100=33.75, partially_corr / total * 100=38.75, corr_format / total * 100=23.75
+ 45%|████▌     | 45/100 [03:25<02:48,  3.06s/it]SKIPPED
+===> corr=32, total=90, corr / total * 100=35.55555555555556, partially_corr / total * 100=40.0, corr_format / total * 100=21.11111111111111
+ 50%|█████     | 50/100 [03:40<02:33,  3.07s/it]===> corr=34, total=100, corr / total * 100=34.0, partially_corr / total * 100=40.0, corr_format / total * 100=21.0
+ 51%|█████     | 51/100 [03:43<02:29,  3.04s/it]SKIPPED
+ 55%|█████▌    | 55/100 [03:56<02:18,  3.09s/it]===> corr=37, total=110, corr / total * 100=33.63636363636363, partially_corr / total * 100=39.09090909090909, corr_format / total * 100=20.909090909090907
+ 60%|██████    | 60/100 [04:11<02:02,  3.07s/it]===> corr=40, total=120, corr / total * 100=33.33333333333333, partially_corr / total * 100=38.333333333333336, corr_format / total * 100=20.0
+ 65%|██████▌   | 65/100 [04:26<01:44,  2.99s/it]===> corr=45, total=130, corr / total * 100=34.61538461538461, partially_corr / total * 100=39.23076923076923, corr_format / total * 100=18.461538461538463
+ 66%|██████▌   | 66/100 [04:29<01:42,  3.01s/it]SKIPPED
+ 67%|██████▋   | 67/100 [04:32<01:40,  3.06s/it]SKIPPED
+ 70%|███████   | 70/100 [04:41<01:32,  3.09s/it]===> corr=45, total=140, corr / total * 100=32.142857142857146, partially_corr / total * 100=36.42857142857142, corr_format / total * 100=17.857142857142858
+ 72%|███████▏  | 72/100 [04:47<01:25,  3.05s/it]SKIPPED
+ 75%|███████▌  | 75/100 [04:57<01:16,  3.05s/it]===> corr=50, total=150, corr / total * 100=33.33333333333333, partially_corr / total * 100=37.333333333333336, corr_format / total * 100=18.0
+ 80%|████████  | 80/100 [05:12<01:01,  3.07s/it]===> corr=52, total=160, corr / total * 100=32.5, partially_corr / total * 100=36.25, corr_format / total * 100=19.375
+ 85%|████████▌ | 85/100 [05:27<00:44,  2.97s/it]===> corr=56, total=170, corr / total * 100=32.94117647058823, partially_corr / total * 100=37.05882352941177, corr_format / total * 100=18.823529411764707
+ 90%|█████████ | 90/100 [05:42<00:29,  2.97s/it]===> corr=57, total=180, corr / total * 100=31.666666666666664, partially_corr / total * 100=35.55555555555556, corr_format / total * 100=18.88888888888889
+ 95%|█████████▌| 95/100 [05:57<00:14,  2.95s/it]===> corr=60, total=190, corr / total * 100=31.57894736842105, partially_corr / total * 100=35.26315789473684, corr_format / total * 100=18.421052631578945
+100%|██████████| 100/100 [06:11<00:00,  3.72s/it]===> corr=62, total=200, corr / total * 100=31.0, partially_corr / total * 100=34.5, corr_format / total * 100=18.5
+Pre-training Evaluation Metrics:
+Correct: 62
+Total: 200
+Accuracy: 31.00%
+Partially Correct Accuracy: 34.50%
+Format Match Accuracy: 18.50%

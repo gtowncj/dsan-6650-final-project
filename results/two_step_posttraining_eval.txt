@@ -1,0 +1,9 @@
+100%|██████████| 100/100 [06:06<00:00,  3.67s/it]
+TRAINED METRICS:
+  total: 200
+  exact_correct: 77
+  partial_correct: 84
+  format_correct: 95
+  exact_accuracy: 38.5
+  partial_accuracy: 42.0
+  format_accuracy: 47.5
